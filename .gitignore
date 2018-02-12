@@ -1,0 +1,11 @@
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+/nbproject/private/
+/build.xml
+/manifest.mf
+/nbproject/
+/vpproject/
